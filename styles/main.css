@@ -112,6 +112,7 @@ code {
 }
 .header .logo_title .title a {
   text-decoration: none;
+  color: #f5f5f5;
 }
 .header .logo_title .title .navbar .normal_nav {
   float: right;

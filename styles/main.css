@@ -6,7 +6,7 @@ body {
   overflow-x: none;
   margin: 0 auto;
   width: 100%;
-  background-color: #19ABFE !important;
+  background-color: #faf9f7 !important;
   color: #3e3e3e;
   word-spacing: 0;
   letter-spacing: 0;
@@ -112,7 +112,6 @@ code {
 }
 .header .logo_title .title a {
   text-decoration: none;
-  color: #f5f5f5;
 }
 .header .logo_title .title .navbar .normal_nav {
   float: right;
